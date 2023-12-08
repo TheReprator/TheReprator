@@ -24,5 +24,5 @@ I have good experience with Kotlin Multiplatform with which I have written sever
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheReprator&" alt="TheReprator"/></p>
 
-[![TheReprator's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheReprator&theme=radical)](https://twitter.com/TheReprator)
+[![TheReprator's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheReprator&theme=radical)](https://twitter.com/Reprator1)
 
