@@ -14,12 +14,13 @@ I have been writing products with clean architecture MVVM/MVI, and the features 
 I have good experience with Kotlin Multiplatform with which I have written several apps and SDKs for projects at office and freelance contracts. Since I have worked with Flutter in the past I can build high performance cross platform apps as well.
 
 
-##  👀 My Tech stack inlude ?
+##  My Tech stack inlude
 
 - Kotlin Multiplatform
 - Flutter
 - React Native
 - Jetpack Compose Android!
+- A bit of hand on python and rust
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheReprator&" alt="TheReprator"/></p>
